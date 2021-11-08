@@ -2,8 +2,8 @@
 
 ## I'm a Student and Developer!!
 
-- I’m currently learning Java and a little bit of whatever come up 🤣
-- Goals: Increase my knowledge overall (still have a long way forward)
+- I’m currently learning Java and a little bit of whatever come up.
+- Goals: Increase my knowledge overall (still have a long way forward).
 
 
 ### Connect with me:
