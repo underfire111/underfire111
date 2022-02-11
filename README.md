@@ -2,8 +2,8 @@
 
 ## I'm a Student and Developer!!
 
+- I think i'm quite experient with C, C++ and Python...
 - I’m currently learning Java and a little bit of whatever come up.
-- Goals: Increase my knowledge overall (still have a long way forward).
 
 
 ### Connect with me:
