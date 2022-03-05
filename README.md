@@ -1,4 +1,4 @@
-### Hi there, I'm Paulo! 👋 
+### Hi there! 👋 
 
 ## I'm a Student and Developer!!
 
