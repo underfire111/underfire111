@@ -3,7 +3,7 @@
 ## I'm a Student and Developer!!
 
 - I've been developed in C for over than 3 years.
-- I used to develop programs in Python, C++ and C#.
+- I used to develop some programs in Python, C++ and C#.
 - I'm actually learning Java.
 - Also learning the basics from HTML & CSS.
 
