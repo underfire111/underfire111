@@ -2,8 +2,10 @@
 
 ## I'm a Student and Developer!!
 
-- I think i'm quite experient with C, C++ and Python...
-- I’m currently learning Java and a little bit of whatever come up.
+- I've been developed in C for over than 3 years.
+- I used to develop programs in Python, C++ and C#.
+- I'm actually learning Java.
+- Also learning the basics from HTML & CSS.
 
 
 ### Connect with me:
