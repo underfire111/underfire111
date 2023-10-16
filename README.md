@@ -1,9 +1,8 @@
-<h1 align="center">Sup, I'm Underfire</h1>
-<h3 align="center">I am currently in the third year of my degree in software engineering.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=underfire111&label=Profile%20views&color=0e75b6&style=flat" alt="underfire111" /> </p>
 
+<h1 align="left">Sup, I'm Underfire</h1>
 <img align="right" alt="Coding" width="150" src="https://media.tenor.com/fJAoBHWymY4AAAAC/do-not-touch-it-programmer.gif">
+<h3 align="left">I am currently in the third year of my degree in software engineering.</h3>
 
 - ☕ I've been developing programs in **C, C++, C#** for more than three years.
 - 🙄 Not a big fan, but i also have some experience with Java, Dart, SQL, Python and some others.
@@ -33,5 +32,9 @@
   <a href="https://www.vectorlogo.zone/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="archlinux" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left">GitHub Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=underfire111&show_icons=true&locale=en" alt="underfire111" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=underfire111&theme=dark&hide_border=false)<br/>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
