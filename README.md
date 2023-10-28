@@ -6,7 +6,7 @@
 
 - ☕ I've been developing programs in **C, C++, C#** for more than four years.
 - 🙄 Not a big fan, but I also have some experience with **Java, Python, SQL, Dart** and some others.
-- 🌱 I’m currently learning **.NET, Common Lisp, JavaScript and Rust**. Some thanks to my degree and **Rust** just for fun.
+- 🌱 I’m currently learning **.NET, Common Lisp, JavaScript** and **Rust**. Some thanks to my degree and **Rust** just for fun.
 - 😎 I'm an enthusiast with linux. I've used quite a few of distros since 2021, being **Arch Linux** my favourite so far.
 
 <h3 align="left">Connect with me:</h3>
