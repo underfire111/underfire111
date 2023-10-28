@@ -4,9 +4,10 @@
 <img align="right" alt="Coding" width="150" src="https://media.tenor.com/fJAoBHWymY4AAAAC/do-not-touch-it-programmer.gif">
 <h3 align="left">I am currently in the third year of my degree in software engineering.</h3>
 
-- ☕ I've been developing programs in **C, C++, C#** for more than three years.
-- 🙄 Not a big fan, but i also have some experience with Java, Dart, SQL, Python and some others.
-- 🌱 I’m currently learning **.NET, Common Lisp and Rust**.
+- ☕ I've been developing programs in **C, C++, C#** for more than four years.
+- 🙄 Not a big fan, but I also have some experience with **Java, Python, SQL, Dart** and some others.
+- 🌱 I’m currently learning **.NET, Common Lisp, JavaScript and Rust**. Some thanks to my degree and **Rust** just for fun.
+- 😎 I'm an enthusiast with linux. I've used quite a few of distros since 2021, being **Arch Linux** my favourite so far.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,6 +36,5 @@
 <h3 align="left">GitHub Stats:</h3>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=underfire111&theme=dark&hide_border=false)<br/>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
