@@ -1,7 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=underfire111&label=Profile%20views&color=0e75b6&style=flat" alt="underfire111" /> </p>
 
 <h1 align="left">Sup, I'm Underfire</h1>
-<img align="right" alt="Coding" width="150" src="https://media.tenor.com/fJAoBHWymY4AAAAC/do-not-touch-it-programmer.gif">
 <h3 align="left">I am currently in the third year of my degree in software engineering.</h3>
 
 - ☕ I've been developing programs in **C, C++, C#** for more than four years.
